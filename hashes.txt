@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ein Blick zurück
+
+This log tracks the cryptographic history and versioning for the song **Ein Blick zurück** (ein-blick-zuruck).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T23:25:03.459820 | `v1` | `bb2e8bc15bc745e911d3669a4b59ec8a53872e48f69b6065052812ddc8948df4` | `a5151d1e5e577fa375541a61cad26d0acade806acaeb81119b2aa5b43e4c06ef` | `2026-06-30_ein-blick-zuruck-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
