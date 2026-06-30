@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-blick-zuruck/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Ein Blick zurück](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-blick-zuruck/) |
+| **Get License** | [Get a Licensing Quote for Ein Blick zurück](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-blick-zuruck/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Rote Lichter im Rückspiegel, aber ich seh' nur dich
+> In diesem Großstadtdschungel bist du mein einziges Licht
+> Ein Blick zurück, ich verlier' mich in deiner Aura
+> Wir beide gegen die Welt, kein Limit und kein Drama
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
